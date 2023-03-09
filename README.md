@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a full-stack software developer with a background in the financial industry and fintech startups in the UK and EU. I have a strong mix of analytical and commercial experience that extends across product management, financial analysis/modelling, strategy, and data analytics.
+
 <!--
 **alastair10/alastair10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
