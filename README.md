@@ -11,4 +11,3 @@ I am a full-stack software developer with a background in the financial industry
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alastairchau/)](https://www.linkedin.com/in/alastairchau/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alastair.chau@gmail.com)](mailto:alastair.chau@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/alastairc10)
