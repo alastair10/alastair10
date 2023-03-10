@@ -2,7 +2,7 @@
 
 I am a full-stack software developer with a background in the financial industry and fintech startups in the UK and EU. I have a strong mix of analytical and commercial experience that extends across product management, financial analysis/modelling, strategy, and data analytics.
 
-- ✍️ Check out my single-page [CV](https://drive.google.com/file/d/17Xal9GHglgbICeU1adre2MisYa79_ga6/view?usp=share_link) for my contact info and background.
+- Check out my single-page [CV](https://drive.google.com/file/d/17Xal9GHglgbICeU1adre2MisYa79_ga6/view?usp=share_link) for my contact info and background.
 - Or see my long-form [Github CV](https://github.com/alastair10/CV) for a deeper dive into my background.
 <br>
 <p align="center">
