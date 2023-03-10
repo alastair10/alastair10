@@ -9,6 +9,6 @@ I am a full-stack software developer with a background in the financial industry
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=alastair10&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&hide=issues,contribs">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=alastair10&langs_count=6&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000"></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-AlastairChau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alastairchau/)](https://www.linkedin.com/in/alastairchau/)
-[![Gmail Badge](https://img.shields.io/badge/-alastair.chau@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alastair.chau@gmail.com)](mailto:alastair.chau@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/alastairc10-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/alastairc10)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alastairchau/)](https://www.linkedin.com/in/alastairchau/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alastair.chau@gmail.com)](mailto:alastair.chau@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/alastairc10)
