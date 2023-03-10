@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi, I'm Alastair
 
 I am a full-stack software developer with a background in the financial industry and fintech startups in the UK and EU. I have a strong mix of analytical and commercial experience that extends across product management, financial analysis/modelling, strategy, and data analytics.
 
-- ✍️ Check out my [CV](https://github.com/alastair10/CV) for complete background and contact info.
-<!-- - 👋 My personal [blog](https://pr2tik1.github.io/blog/)
-- ✍️ [Medium Profile](https://pr2tik1.medium.com/) -->
+- ✍️ Check out my single-page [CV](https://drive.google.com/file/d/17Xal9GHglgbICeU1adre2MisYa79_ga6/view?usp=share_link) for my contact info and background.
+- Or see my long-form [Github CV](https://github.com/alastair10/CV) for a deeper dive into my background.
 <br>
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=alastair10&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&hide=issues,contribs">
